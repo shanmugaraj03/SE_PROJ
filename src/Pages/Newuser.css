@@ -1,0 +1,41 @@
+body{
+    background-color: lightgreen;
+    margin: 0;
+
+}
+
+.Reg{
+    background-color:rgb(250, 248, 248);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100px;
+    color: rgb(0, 81, 255);
+    font-display:calc();
+}
+.Reg p3{
+    background-color: rgb(155, 217, 232);       
+}
+.Reg h1{
+    font-size: medium;
+    color: black;
+    line-height: 1.5;
+}
+.Reg img{
+    width: 500px;
+    height: 85px;
+}
+
+nav{
+    padding: 5px 5px !important;
+}
+
+.Reg button
+{
+    background-color: #00f84e;
+    border-radius: 100px;
+    width: 150px;
+    height: 40px;
+}
+.Reg button:hover{
+     background-color: rgb(56, 49, 189);
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+body{
+    background-color: rgb(150, 0, 0);
+    margin: 0;
+
+}
+h5{
+    font-size:xx-large;
+    color: rgb(234, 133, 18);
+}
+h6{
+    font-size:x-large;
+    color: rgb(73, 113, 221);
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+img{
+    width: 700px;
+    height: 400px;
+}
+button{
+    background-color: rgb(241, 241, 241);
+}
+button1{
+    background-color: rgb(14, 4, 23);
+    color: white;
+}

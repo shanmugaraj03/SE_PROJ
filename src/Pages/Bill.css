@@ -1,0 +1,22 @@
+.Bill p{
+    font-size: 15px;
+    text-align: center;
+}
+.Bill h1{
+    color: rgb(53, 52, 52);
+    text-align: center;
+}
+.Bill h2{
+    color: black;
+    text-align: center;
+}
+.Bill img{
+    width: 50px;
+    height: 40px;
+}
+.Bill button{
+    width: 20px;
+    height: 20px;
+    color: rgb(15, 11, 6);
+    border-radius: 100px;
+}
